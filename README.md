@@ -8,11 +8,11 @@ In this scenario I am a junior data analyst at Cyclistic and my team has been ta
 ****
 **ANALYSIS**
 
-**Google_capstone_project_cyclistic_bike_share_analysis.R**
+- **Google_capstone_project_cyclistic_bike_share_analysis.R**
 
 I analyzed and visualized the data set sourced from the company's database in case study 1 in the Google Data Analytics Course using R
 
-**Google_capstone_project_cyclistic_tableau.R**
+- **Google_capstone_project_cyclistic_tableau.R**
 
 I carried out a seperate analysis to create a dataframe to use in Google_capstone_project_cyclistic_tableau.
 ****
